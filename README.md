@@ -254,3 +254,13 @@ function displayDate() {
 ```
 
 จะเห็นว่า `<script src="my-script.js"></script>` จะ import ไฟล์ ไว้ด้านล่างสุด เนื่องจากต้องทำการสร้าง HTML element `<button id="myBtn">Try it</button>` และ `<p id="demo"></p>` ก่อน ถ้าเรา import ไว้ข้างบน ตัวจับ event listener ของ javascript จะหา tag `button id="myBtn"` และ `p id="demo"` ไม่เจอ หน้าเว็บเราจะ click ไม่ได้ตามที่ต้องการ
+
+```text
+https://www.w3schools.com/html/html5_video.asp
+```
+
+#### eBook
+
+```text
+https://b-ok.asia/book/3556226/072a01
+```
