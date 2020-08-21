@@ -1,0 +1,54 @@
+html {
+  background-color: #d4d4d4;
+  background-image: url("images/Background-website-01.jpg");
+  background-size: 100%;
+  font-family: Arial,
+    Helvetica,
+    sans-serif;
+  color: #666666
+}
+
+h1 {
+  color: #555555;
+  font-size: 30px;
+}
+
+h1#center {
+  text-align: center;
+}
+
+.danger {
+  color: #DC3545;
+}
+
+.success {
+  color: #6BC27D;
+}
+
+#container {
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(242, 242, 242, 0.8);
+  padding: 10px 20px 10px 20px;
+}
+
+table {
+  width: 100%;
+  border-spacing: 10px;
+  border-collapse: collapse;
+
+}
+
+table,
+th,
+td {
+  border: 1px solid #555555;
+  height: 30px;
+}
+
+th,
+td {
+  text-align: left;
+  padding-left: 10px;
+  padding-right: 10px;
+}
